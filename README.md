@@ -12,6 +12,7 @@ values-in: Indonesian</br>
 values-it: Italian</br>
 values-ja: Japanese</br>
 values-ko: Korean</br>
+values-lt: Lithuanian</br>
 values-ms: Malay, Indonesian</br>
 values-nl: Dutch</br>
 values-pl: Polish</br>
